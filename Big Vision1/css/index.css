@@ -1,0 +1,26 @@
+<div class="container">
+        <!--what is on your mind-->
+        <div class="row">
+            <div class="status-box">
+                <div class="container">
+                    <div class="row">
+                        <div class="firstrow">
+                            <button type="submit">Make post</button>
+                            <button type="submit"> Photo/Video</button>
+                            <button type="submit"> Live Video</button>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="secondrow">
+                            <div class="col-1 float-left">
+                                <img class="img-fluid rounded-circle" src="mummy.jpg"/>
+                            </div>
+                            <div class="col-11">
+                                <textarea placeholder="what is on your mind???">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
