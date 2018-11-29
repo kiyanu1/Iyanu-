@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<title>Facebook</title>
+	<style>
+		div {
+             color:black;
+             text-align:left;
+             font-family:cursive;
+             font-size: 16px; 
+         }  
+		 .greentext{
+             color:white;background-color:rgba(18, 106, 207, 0.897);font-family:cursive;
+		}
+		 .whitetext{
+			 padding-left: 700px
+		 }
+	</style>
+</head>
+
+<body>
+	<div class="greentext"><img src="fblogo.jpg" style="width:20px; height:20px"> <input type="text" name="search facebook"
+		 placeholder="search facebook"><button>search</button></div>
+	<div class="container">
+		<!--what is on your mind-->
+		<button>Home</button><button>Messages(22)</button><button>Notification(98)</button><button>Chat(260)</button><button>Friends(20)</button><button>Menu</button>
+		<br> share with: <a href="vision">public</a>
+		<div class="row">
+			<div class="status-box">
+				<div class="container">
+					<div class="firstrow">
+						<button type="submit"> Make Post</button>
+						<button type="submit"> Photo/Video</button>
+						<button type="submit"> Live video</button>
+					</div>
+					<div class="secondrow">
+						<div class="col-md-2 float-left">
+							<img class="img-fluid rounded-circle" src="Iyanu.jpg" />
+						</div>
+						<div class="col-md-11">
+							<textarea placeholder="what's on your mind?"></textarea><button type="submit"> Post</button>
+						</div>
+					</div>
+					<div class="thirdrow">
+						<button type="submit"> Photo</button>
+						<button type="submit"> Feeling</button>
+						<button type="submit"> ...More</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<p1>friend request
+		<form>
+			<img src="fblogo.jpg" style="width:20px; height:20px"> <input type="text" name="Onibudo Kehinde Welsh" placeholder="Onibudo Kehinde Welsh">
+		</form>
+	</p1>
+
+</body>
+
+</html>
